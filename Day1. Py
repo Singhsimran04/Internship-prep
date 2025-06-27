@@ -1,0 +1,5 @@
+# Day 1 - Python Basics
+# Greeting the user using input()
+
+name = input("Enter your name: ")
+print("Hello, " + name + "! Welcome to my Python journey.")
